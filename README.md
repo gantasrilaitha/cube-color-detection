@@ -1,2 +1,2 @@
 # cube-color-detection
-Detect different colours of a cube by open-cv
+Detect different colours of a cube using  open-cv module under image-processing
